@@ -6,6 +6,5 @@ int main(int argc, const char *argv[])
 
     cout<< "Hello World"<<endl;
     cout<< " Testing a change" <<endl;
-    cout<< "committing change on main branch"<<endl;
     return 0; 
 }
