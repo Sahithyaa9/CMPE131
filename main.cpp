@@ -6,6 +6,6 @@ int main(int argc, const char *argv[])
 
     cout<< "Hello World"<<endl;
     cout<< " Testing a change" <<endl;
-    cout<<" committing change on experimental branch2 to merge onto main branch"<<endl;
+    cout << " testing change for rishi to pull"<< endl;
     return 0; 
 }
